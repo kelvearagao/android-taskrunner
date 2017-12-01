@@ -49,3 +49,8 @@ public class HelloActivity extends Activity {
 // %ANDROID_HOME%\platform-tools\adb -s emulator-5554 install myapp.apk
 
 
+// referencia
+// https://spring.io/guides/gs/gradle-android/
+// https://spring.io/guides/gs/android/
+// https://developer.android.com/studio/command-line/sdkmanager.html
+
